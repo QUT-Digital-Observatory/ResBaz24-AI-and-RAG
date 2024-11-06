@@ -48,7 +48,10 @@ jupyter notebook
 #### Interacting-with-Gemini.ipynb
 Shows basic initialisation of Gemini and making calls to the Gemini API using Google's generativeai python module
 
-#### Embeddings-and-RAG-Gemini.ipynb
+#### RAG-with-Gemini.ipynb
 Shows how to generate embeddings, and use them in a RAG pipeline centered around Gemini
+
+#### RAG-with-Gemini-workshop.ipynb
+The working copy of RAG-with-Gemini.ipynb, used for demonstration purposes.
 
 
