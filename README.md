@@ -1,4 +1,4 @@
-# AI and RAG; discussion over documents
+# AI and RAG; chat with documents
 
 The accompanying presentation is available as "ResBaz2024-AIandRAG.pdf" in this folder, and [online](https://docs.google.com/presentation/d/1fCUuci69uKic0I6uHIq3C2OSNNM8I30K-0BGWR6su3g/edit?usp=sharing). 
 
