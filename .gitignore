@@ -1,0 +1,7 @@
+.env
+.venv
+.pytest_cache
+.tox
+.vscode
+.ipynb_checkpoints
+chroma-db
